@@ -1,0 +1,11 @@
+order_id,date,region,product,qty,price
+1,2025-01-10,North,Keyboard,5,600
+2,2025-01-11,West,Mouse,10,250
+3,2025-01-12,South,Monitor,2,4200
+4,2025-01-12,East,Laptop,1,28000
+5,2025-01-13,North,Mouse,6,230
+6,2025-01-14,West,Keyboard,3,600
+7,2025-01-15,South,Laptop,2,28000
+8,2025-01-16,North,Monitor,1,4200
+9,2025-01-17,East,Mouse,8,250
+10,2025-01-18,West,Laptop,1,28000
