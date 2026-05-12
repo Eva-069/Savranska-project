@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <id>1</id>
+    <name>Alice</name>
+    <age>30.0</age>
+    <city>New York</city>
+  </row>
+  <row>
+    <id>2</id>
+    <name>Bob</name>
+    <age>25.0</age>
+    <city>Los Angeles</city>
+  </row>
+  <row>
+    <id>3</id>
+    <name>Charlie</name>
+    <age>35.0</age>
+    <city>Chicago</city>
+  </row>
+  <row>
+    <id>4</id>
+    <name>David</name>
+    <age>40.0</age>
+    <city>Houston</city>
+  </row>
+  <row>
+    <id>5</id>
+    <name>Eve</name>
+    <age>22.0</age>
+    <city>Phoenix</city>
+  </row>
+  <row>
+    <id>7</id>
+    <name>Grace</name>
+    <age>28.0</age>
+    <city>San Antonio</city>
+  </row>
+  <row>
+    <id>8</id>
+    <name>Hank</name>
+    <age>45.0</age>
+    <city>San Diego</city>
+  </row>
+  <row>
+    <id>9</id>
+    <name>Ivy</name>
+    <age>27.0</age>
+    <city>Dallas</city>
+  </row>
+</data>
